@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨🏼‍💻 Sobre mí
 
 Me considero una persona curiosa a la que le gusta aprender continuamente.
 
