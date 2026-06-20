@@ -1,4 +1,4 @@
-# 👋 Hola, soy Diego
+# 👋🏻 Hola, soy Diego
 
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
