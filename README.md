@@ -1,6 +1,4 @@
-# ¡Hola! 👋
-
-## Soy Diego
+# 👋 Hola, soy Diego
 
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
@@ -19,17 +17,17 @@ Disfruto descubriendo nuevas tecnologías, resolviendo problemas y mejorando poc
 ## 🛠 Tecnologías y Herramientas
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" title="Visual Studio Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" title="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="Visual Studio Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" title="Android Studio"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/SonarQube-Code_Quality-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-Calidad_de_Código-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 </p>
 
 ---
@@ -63,6 +61,6 @@ Aplicación de gestión nutricional desarrollada para facilitar la administraci�
 
 <p align="left">
   <a href="https://www.linkedin.com/in/diego-santos-gonz%C3%A1lez-a97881307/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profesional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
