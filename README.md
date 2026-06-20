@@ -2,7 +2,7 @@
 
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-💻 Desarrollo de software | 🚀 Aprendiz continuo
+💻 Desarrollo de software | 🚀 Aprendizaje continuo
 
 ---
 
