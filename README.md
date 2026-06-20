@@ -1,16 +1,78 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**Diegosantosgz/Diegosantosgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy Diego
 
-Here are some ideas to get you started:
+🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Java | 🚀 Aprendiz continuo
+
+---
+
+## 👨‍💻 Sobre mí
+
+Me considero una persona curiosa a la que le gusta aprender continuamente.
+
+Disfruto descubriendo nuevas tecnologías, resolviendo problemas y mejorando poco a poco como desarrollador. Siempre intento entender el porqué de las cosas y seguir ampliando mis conocimientos.
+
+---
+
+## 🌐 Conecta conmigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/diego-santos-gonz%C3%A1lez-a97881307/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profesional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Diegosantosgz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠 Tecnologías y Herramientas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" title="Visual Studio Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" title="Android Studio"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SonarQube-Code_Quality-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+</p>
+
+---
+
+## ⭐ Proyecto destacado
+
+### 🥗 NutriAllin
+
+**Proyecto Fin de Ciclo (DAM)**
+
+Aplicación de gestión nutricional desarrollada para facilitar la administración de pacientes, consultas y planes nutricionales.
+
+### Características
+
+- Gestión de pacientes
+- Consultas nutricionales
+- Planes alimenticios
+- Seguimiento de la evolución
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- Arquitectura de software
+- Inteligencia Artificial aplicada al desarrollo
+- Buenas prácticas de programación
+
+---
+
+## 💡 Filosofía
+
+> La curiosidad es el motor del aprendizaje.
