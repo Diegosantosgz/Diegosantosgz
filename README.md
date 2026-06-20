@@ -60,7 +60,7 @@ Aplicación de gestión nutricional desarrollada para facilitar la administraci�
 ## 🌐 Conecta conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/diego-santos-gonz%C3%A1lez-a97881307/">
+  <a href="https://www.linkedin.com/in/diegosantosgz/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
