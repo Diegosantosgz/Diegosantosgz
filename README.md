@@ -4,7 +4,7 @@
 
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-💻 Java | 🚀 Aprendiz continuo
+💻 Desarrollo de software | 🚀 Aprendiz continuo
 
 ---
 
@@ -13,20 +13,6 @@
 Me considero una persona curiosa a la que le gusta aprender continuamente.
 
 Disfruto descubriendo nuevas tecnologías, resolviendo problemas y mejorando poco a poco como desarrollador. Siempre intento entender el porqué de las cosas y seguir ampliando mis conocimientos.
-
----
-
-## 🌐 Conecta conmigo
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/diego-santos-gonz%C3%A1lez-a97881307/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profesional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Diegosantosgz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
@@ -73,6 +59,10 @@ Aplicación de gestión nutricional desarrollada para facilitar la administraci�
 
 ---
 
-## 💡 Filosofía
+## 🌐 Conecta conmigo
 
-> La curiosidad es el motor del aprendizaje.
+<p align="left">
+  <a href="https://www.linkedin.com/in/diego-santos-gonz%C3%A1lez-a97881307/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profesional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
