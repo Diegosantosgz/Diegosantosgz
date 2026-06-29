@@ -17,7 +17,7 @@ Disfruto descubriendo nuevas tecnologías, resolviendo problemas y mejorando poc
 ## 🛠 Tecnologías y Herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,github,gitlab,vscode,idea,androidstudio,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,git,github,gitlab,vscode,idea,androidstudio,docker" />
 </p>
 
 <p>
